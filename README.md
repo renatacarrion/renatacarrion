@@ -14,10 +14,10 @@ Proyectos Realizados
 
 [cvrenatacarrion.pdf]
 
-https://github.com/renatacarrion/renatacarrion/blob/ed5b110dff14d054cec0e5dba7c068f74bed2583/cvrenatacarrion.pdf
+# https://github.com/renatacarrion/renatacarrion/blob/ed5b110dff14d054cec0e5dba7c068f74bed2583/cvrenatacarrion.pdf
 
 ## Capitulo del libro
 
 [capitulo6]
 
-https://github.com/renatacarrion/renatacarrion/blob/ed5b110dff14d054cec0e5dba7c068f74bed2583/capitulo6.pdf
+# https://github.com/renatacarrion/renatacarrion/blob/ed5b110dff14d054cec0e5dba7c068f74bed2583/capitulo6.pdf
