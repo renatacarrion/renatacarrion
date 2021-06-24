@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bienvenidos👋
 
-<!--
-**renatacarrion/renatacarrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Repositorio de Tecnicas y Herramientas Modernas
 
-Here are some ideas to get you started:
+Proyectos Realizados
+-CV realizado con Latex (Overleaf.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Traducción de un  capitulo de un libro de inglés a español sobre la descarbonizacón
+
+-creación de este Repositorio
+
+
+## Curriculum Vitae realizado con Overleaf
+
+
+[cvrenatacarrion] 
+
+## Capitulo del libro
+
