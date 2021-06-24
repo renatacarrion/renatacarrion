@@ -12,8 +12,8 @@ Proyectos Realizados
 
 ## Curriculum Vitae realizado con Overleaf
 
+[cvrenatacarrion.pdf]
 
-[cvrenatacarrion] 
 
 ## Capitulo del libro
 
