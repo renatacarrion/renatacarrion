@@ -2,7 +2,9 @@
 
 # Repositorio de Tecnicas y Herramientas Modernas
 
-Proyectos Realizados
+#Proyectos Realizados 
+
+
 -CV realizado con Latex (Overleaf.com)
 
 -Traducción de un  capitulo de un libro de inglés a español sobre la descarbonizacón
